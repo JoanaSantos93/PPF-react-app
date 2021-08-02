@@ -51,8 +51,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
-### Done as a from AGAP2IT technical test and as a consolidation of knowledge
+### Done as a technical test from AGAP2IT and as a consolidation of knowledge
 
 ---
 
-# (Used JSX with React because I find it helpful as a visual aid when working with UI inside the JS code. It also allows React to show more useful error and warning messages)
+####                                Used JSX with React because I find it helpful as a visual aid when working with UI inside the JS code. It also allows React to show more useful error and warning messages
