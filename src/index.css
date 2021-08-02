@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+
+#root {
+  display: grid;
+  grid-auto-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+main {
+  padding: 24px;
+  font-weight: bolder;
+  font-size: 50px;
+  color: darkslategrey;
+}

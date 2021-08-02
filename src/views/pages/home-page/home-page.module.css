@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.heading {
+  font-size: 65px;
+  text-align: center;
+  margin-top: 700px;
+  color: red;
+  background-color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+body {
+  background-image: url('https://media2.giphy.com/media/cmzmn39EJRyLDF6l2j/giphy.gif');
+  background-size: cover;
+  background-color: rgb(7, 176, 254);
+}

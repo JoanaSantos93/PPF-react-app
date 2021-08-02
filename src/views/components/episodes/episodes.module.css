@@ -1,0 +1,17 @@
+.title {
+  margin-bottom: 24px;
+}
+
+.episodesList {
+  column-gap: 24px;
+  column-width: 272px;
+  list-style-type: none;
+  font-weight: bolder;
+  text-decoration: none; /* Its supposed to remove the underline from the eps but it doesnt...idk why*/
+}
+
+@media screen and (max-width: 992px) {
+  .episodesList {
+    padding-left: 12px;
+  }
+}
